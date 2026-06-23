@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/banner.png" alt="Souq — the map-first marketplace for the Gulf" width="100%" />
+
 # 🛒 Souq
 
 ### The map-first marketplace for the Gulf.
