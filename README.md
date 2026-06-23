@@ -201,6 +201,6 @@ gantt
 
 Souq is founder-built and shipping. If you're an **investor, accelerator, technical co-founder, or engineer** interested in Gulf-region commerce infrastructure:
 
-📧 **arasghorbani9090@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/arasghorbani)
+📧 **arasghorbani9090@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/aras-ghorbani-ab1a7b62)
 
 <div align="center"><sub>© Souq. Architecture & docs are public; application source is proprietary.</sub></div>
