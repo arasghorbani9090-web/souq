@@ -1,0 +1,17 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#04101F"/><stop offset="0.55" stop-color="#071A35"/><stop offset="1" stop-color="#0A2143"/></linearGradient>
+    <linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1565FF"/><stop offset="1" stop-color="#00C48C"/></linearGradient>
+    <radialGradient id="gA" cx="0.9" cy="0" r="0.7"><stop offset="0" stop-color="#1565FF" stop-opacity="0.4"/><stop offset="1" stop-color="#1565FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gB" cx="0" cy="1" r="0.6"><stop offset="0" stop-color="#00C48C" stop-opacity="0.32"/><stop offset="1" stop-color="#00C48C" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/><rect width="1280" height="640" fill="url(#grid)"/><rect width="1280" height="640" fill="url(#gA)"/><rect width="1280" height="640" fill="url(#gB)"/>
+  <g transform="translate(84,84)"><rect width="44" height="44" rx="12" fill="url(#m)"/><path d="M13 23 L20 30 L32 16" fill="none" stroke="#fff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/><text x="60" y="29" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#94AECF">github.com/arasghorbani9090-web</text></g>
+  <g transform="translate(1027,92)"><rect width="169" height="40" rx="20" fill="#C9A24B" fill-opacity="0.16" stroke="#C9A24B" stroke-opacity="0.5"/><text x="84.5" y="26" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E6CB86">PORTFOLIO</text></g>
+  <text x="84" y="330" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">Souq</text>
+  <text x="84" y="386" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#94AECF">Map-first Gulf marketplace — geolocation · WhatsApp · PostGIS</text>
+  <line x1="84" y1="548" x2="1196" y2="548" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <text x="84" y="586" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#94AECF">Aras Ghorbani — Founder · Product Architect</text>
+  <text x="1196" y="586" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#5E9CFF">souq</text>
+</svg>
