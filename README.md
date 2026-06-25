@@ -148,15 +148,18 @@ souq/
 
 ## 🖼 Screenshots
 
-> Placeholders — drop real captures into `docs/screenshots/` and they'll render here.
+<p align="center">
+  <img src="docs/screenshots/map.jpg" width="23%" alt="Map discovery — shops as photo-markers and clusters" />
+  <img src="docs/screenshots/search.jpg" width="23%" alt="Search the map" />
+  <img src="docs/screenshots/nearby.jpg" width="23%" alt="Nearby listings" />
+  <img src="docs/screenshots/account.jpg" width="23%" alt="Account and saved areas" />
+</p>
 
-| Map discovery | Storefront | Product search |
-| --- | --- | --- |
-| ![Map](docs/screenshots/map.png) | ![Storefront](docs/screenshots/storefront.png) | ![Search](docs/screenshots/search.png) |
+<p align="center">
+  <sub><b>Map discovery</b> — shops as photo-markers &amp; live clusters &nbsp;·&nbsp; <b>Search</b> — “nike” → 16 shops on the map &nbsp;·&nbsp; <b>Nearby listings</b> — products, prices &amp; one-tap WhatsApp &nbsp;·&nbsp; <b>Account</b> — search radius &amp; saved areas</sub>
+</p>
 
-| Create listing | Onboarding | Cluster zoom |
-| --- | --- | --- |
-| ![Create](docs/screenshots/create.png) | ![Onboarding](docs/screenshots/onboarding.png) | ![Clusters](docs/screenshots/clusters.png) |
+> Captured live on a Samsung Galaxy Z Fold5 running the production build.
 
 ---
 
